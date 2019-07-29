@@ -16,7 +16,7 @@ return x*y;
 
 }
 public int divide(int x,int y){
-return x/y;
+return cos(x/y);
 
 }
 public static void main(String[] args) {
